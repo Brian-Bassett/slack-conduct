@@ -280,12 +280,12 @@ The code of conduct is best served as a single document for visibility and trans
 
 ### What about ...?
 
-The code of conduct is open source, and you are welcome to contact the authors directly (contact information is on GitHub profile pages), [open an issue](), or send a [pull request]().
+The code of conduct is open source, and you are welcome to contact the authors directly (contact information is on GitHub profile pages), [open an issue](https://github.com/Brian-Bassett/slack-conduct/issues), or send a [pull request](https://github.com/Brian-Bassett/slack-conduct/pulls).
 
 
 ### How do I link to the code of conduct?
 
-Simply link to the page that you are viewing. For more detail, find [instructions here.]()
+Simply link to the page that you are viewing. For more detail, find [instructions here.](https://github.com/Brian-Bassett/slack-conduct/blob/master/README.md)
 
 
 ## License
